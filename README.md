@@ -41,8 +41,8 @@ Busco escrever código simples, limpo e eficiente — e aprender continuamente n
 
 ## Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewillcode&show_icons=true&theme=default&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewillcode&layout=compact&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=ewillcode&show_icons=true&theme=default&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=ewillcode&layout=compact&theme=default" />
 </p>
 
 ---
